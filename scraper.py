@@ -27,7 +27,7 @@ class Clear:
 
 
 class WebBrowser:
-    """Creates the web driver class"""
+    """Creating the web driver class"""
 
     def __init__(self):
         self.timeout = 5
